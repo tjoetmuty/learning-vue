@@ -1,5 +1,9 @@
-<script setup></script>
+<script setup>
+import MainButton from "./components/MainButton.vue"
+</script>
 
-<template>halo muty</template>
+<template>
+  <MainButton/>
+</template>
 
 <style scoped></style>
